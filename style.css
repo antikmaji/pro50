@@ -1,0 +1,56 @@
+
+h1
+{
+    color: rgb(76, 151, 135);
+    margin-left: 650px;
+}
+
+.header{
+
+    /*display: flex;*/
+
+    justify-content: space-between;
+
+    background-color: bisque;
+
+}
+
+.grid{
+
+    display:flex;
+
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    
+
+}
+
+.item img{
+
+    width: 300px;
+    
+    height: 300px;
+
+    border:2px solid black;
+    border-radius: 20px;
+    
+    }
+
+    .item{
+        
+        border-radius: 20px;
+        background-color: ■white; 
+        width:310px;
+        font-family: fantasy; 
+
+    }
+
+    p,h2{
+
+        text-align: center;
+        
+        }
+        
+        
+
